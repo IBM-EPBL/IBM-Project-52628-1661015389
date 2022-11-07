@@ -3,7 +3,7 @@ Efficient Water Quality Analysis &amp; Prediction using Machine Learning
 
 TEAM ID: PNT2022TMID42037 
 
-TEAM LEAD:RABIN.D
+TEAM LEADER:RABIN.D
 
 TEAM-MEMBER: KAVIYARASAN.S
 
